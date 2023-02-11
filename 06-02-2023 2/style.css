@@ -1,0 +1,78 @@
+.mainheader{
+    background-color: black;
+    opacity: 98%;
+    margin: -8px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.topbar{
+    display: flex;
+    justify-content: left;
+    background-color: black;
+}
+.logo{
+    height: 15vh;
+    width: auto;
+    margin: 10vh 0vh 0vh 10vh;
+}
+.centerbox{
+    background-color: rgb(0, 0, 0);
+    margin-bottom: 5vh;
+}
+.mainbody{
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+}
+.heading{
+    text-align: center;
+}
+.signtext{
+    color: rgb(102, 102, 196);
+    font-size: 30px;
+    font-weight: 700;
+}
+.para{
+    color: grey;
+    text-align: left;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 5vh;
+}
+.inputbutton{
+    padding: 3vh 37vh 3vh 3vh;
+    text-align: left;
+    margin-bottom: 3vh;
+    border-radius: 2vh;
+    border: 0px solid;   
+}
+.login{
+    background-color: rgb(102, 102, 196);
+    color: white;
+    border: 0px;
+    font-size: 2.5vh;
+    font-weight: 550;
+    border-radius: 2vh;
+    padding: 3vh 23vh 3vh 23vh;
+}
+.heading2{
+    color: white;
+    font-weight: 300;
+    font-size: 15px;
+}
+.facebook{
+    padding: 2vh 8.5vh 2vh 8.5vh;
+    text-align: center;
+    border-radius: 2vh;
+    border: 0vh solid;
+    font-size: 2.5vh;
+    font-weight: 550;
+}
+.googlee{
+    padding: 2vh 10vh 2vh 10vh;
+}
+.googleico{
+    height: 4vh;
+}
+.facebookico{
+    height: 4vh;
+}

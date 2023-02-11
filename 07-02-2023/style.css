@@ -1,0 +1,41 @@
+.mainheader{
+    background-color: black;
+    margin: -8px;
+    height: 2000px;
+}
+.maindiv{
+    /* background-color: white; */
+    /* height: 500px; */
+    display: flex;
+    justify-content: center;
+}
+.heading{
+    /* background-color: blueviolet; */
+    /* height: auto; */
+    font-size: 5vh;
+    text-align: center;
+    color: rgb(113, 113, 207);
+}
+.para{
+    color: white;
+    font-size: 2.5vh;
+}
+.paradata{
+    margin-top: -10vh;
+}
+.maincontent{
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    justify-content: center;
+    /* height: 500px; */
+    color: white;
+}
+.baseimage{
+    height: 70vh;
+    margin-left: 6vh;
+    margin-top: 15vh;
+}
+.tilediv{
+    background-color: rgb(0, 0, 0);
+    margin: 10px;
+}
